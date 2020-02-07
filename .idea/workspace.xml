@@ -35,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Opdracht 4">
+  <component name="RunManager" selected="Python.Opdracht 5">
     <configuration name="Opdracht 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="menno-hu-student" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,8 +124,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Opdracht 5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="menno-hu-student" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Formatieve opdracht 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Formatieve opdracht 1/Opdracht 5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Opdracht 5" />
         <item itemvalue="Python.Opdracht 4" />
         <item itemvalue="Python.Opdracht 3" />
         <item itemvalue="Python.Opdracht 2" />
@@ -146,7 +169,7 @@
       <workItem from="1580818510604" duration="1083000" />
       <workItem from="1580819610555" duration="6555000" />
       <workItem from="1581009277137" duration="1800000" />
-      <workItem from="1581093931454" duration="8303000" />
+      <workItem from="1581093931454" duration="8693000" />
     </task>
     <servers />
   </component>
@@ -168,6 +191,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_3.coverage" NAME="Opdracht 3 Coverage Results" MODIFIED="1581100043420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_5.coverage" NAME="Opdracht 5 Coverage Results" MODIFIED="1581103408540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_1.coverage" NAME="Opdracht 1 Coverage Results" MODIFIED="1580821158188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_2.coverage" NAME="Opdracht 2 Coverage Results" MODIFIED="1580824000520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_4.coverage" NAME="Opdracht 4 Coverage Results" MODIFIED="1581102717569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
