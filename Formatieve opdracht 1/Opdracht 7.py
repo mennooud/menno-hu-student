@@ -24,8 +24,7 @@ import random
 
 Antwoord = random.randrange(1, int(input("Random nummer tussen 0 en: ")))
 
-
-for i in range(10):
+for i in range(int(Pogingen)):
     print("Doe een gok!")
     gok = input()
     gok = int(gok)

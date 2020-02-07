@@ -169,7 +169,7 @@
       <workItem from="1580818510604" duration="1083000" />
       <workItem from="1580819610555" duration="6555000" />
       <workItem from="1581009277137" duration="1800000" />
-      <workItem from="1581093931454" duration="16005000" />
+      <workItem from="1581093931454" duration="16575000" />
     </task>
     <servers />
   </component>
@@ -192,7 +192,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_3.coverage" NAME="Opdracht 3 Coverage Results" MODIFIED="1581100043420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_5.coverage" NAME="Opdracht 5 Coverage Results" MODIFIED="1581103834117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
-    <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_7.coverage" NAME="Opdracht 7 Coverage Results" MODIFIED="1581110575200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_7.coverage" NAME="Opdracht 7 Coverage Results" MODIFIED="1581111066368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_1.coverage" NAME="Opdracht 1 Coverage Results" MODIFIED="1580821158188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_2.coverage" NAME="Opdracht 2 Coverage Results" MODIFIED="1580824000520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_4.coverage" NAME="Opdracht 4 Coverage Results" MODIFIED="1581102717569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
