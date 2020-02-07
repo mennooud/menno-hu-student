@@ -7,7 +7,7 @@ Probeer zo min mogelijk code te gebruiken.
 
 woord = input("Geef een woord: ")
 
-# a. Schrijf een functie count() die berekent hoe vaak een geheel getal x in een lijst voorkomt.
+# a. Schrijf een versie die gebruikt maakt van een bibliotheekfunctie die een string voor je omdraait.
 print("\nOpdracht 4.a")
 
 def Palindroom1():
@@ -24,7 +24,8 @@ def Palindroom1():
         print("Het gegeven woord is geen palindroom")
     return
 Palindroom1()
-# b.
+
+# b.Schrijf een functie die checkt of een woord een palindroom is.
 print("\nOpdracht 4.b")
 
 def Palindroom2():
