@@ -21,6 +21,7 @@
   <component name="ProjectId" id="1XLHZUo2j4TTMNQ6yisLNG9JRR9" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Python Tools/wxGlade-0.9.5" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -35,8 +36,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Opdracht 7">
-    <configuration name="Opdracht 3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Mastermind_GUI">
+    <configuration name="Mastermind_GUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="menno-hu-student" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,12 +45,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Formatieve opdracht 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Formatieve opdracht 1/Opdracht 3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Mastermind_GUI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Opdracht 4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Mastermind_Randgen" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="menno-hu-student" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,12 +67,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Formatieve opdracht 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Formatieve opdracht 1/Opdracht 4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Mastermind_Randgen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Opdracht 5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="menno-hu-student" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,12 +89,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Formatieve opdracht 1" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="D:/Python Tools/wxGlade-0.9.5" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Formatieve opdracht 1/Opdracht 5.py" />
+      <option name="SCRIPT_NAME" value="D:/Python Tools/wxGlade-0.9.5/setup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Opdracht 6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="template" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="menno-hu-student" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,12 +111,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Formatieve opdracht 1" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="D:/Python Tools/wxGlade-0.9.5" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Formatieve opdracht 1/Opdracht 6.py" />
+      <option name="SCRIPT_NAME" value="D:/Python Tools/wxGlade-0.9.5/template.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Opdracht 7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wxglade" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="menno-hu-student" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,12 +133,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Formatieve opdracht 1" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/wxGlade-0.9.5" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Formatieve opdracht 1/Opdracht 7.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/wxGlade-0.9.5/wxglade.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Opdracht 7" />
-        <item itemvalue="Python.Opdracht 6" />
-        <item itemvalue="Python.Opdracht 5" />
-        <item itemvalue="Python.Opdracht 4" />
-        <item itemvalue="Python.Opdracht 3" />
+        <item itemvalue="Python.Mastermind_GUI" />
+        <item itemvalue="Python.Mastermind_Randgen" />
+        <item itemvalue="Python.setup" />
+        <item itemvalue="Python.template" />
+        <item itemvalue="Python.wxglade" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +171,10 @@
       <workItem from="1580819610555" duration="6555000" />
       <workItem from="1581009277137" duration="1800000" />
       <workItem from="1581093931454" duration="16575000" />
+      <workItem from="1581189953025" duration="349000" />
+      <workItem from="1581419204268" duration="11766000" />
+      <workItem from="1581442806522" duration="1886000" />
+      <workItem from="1581444778241" duration="3001000" />
     </task>
     <servers />
   </component>
@@ -191,11 +196,18 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_3.coverage" NAME="Opdracht 3 Coverage Results" MODIFIED="1581100043420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
-    <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_5.coverage" NAME="Opdracht 5 Coverage Results" MODIFIED="1581103834117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
-    <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_7.coverage" NAME="Opdracht 7 Coverage Results" MODIFIED="1581111066368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
-    <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_1.coverage" NAME="Opdracht 1 Coverage Results" MODIFIED="1580821158188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$template.coverage" NAME="template Coverage Results" MODIFIED="1581443148915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python Tools/wxGlade-0.9.5" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_2.coverage" NAME="Opdracht 2 Coverage Results" MODIFIED="1580824000520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
-    <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_4.coverage" NAME="Opdracht 4 Coverage Results" MODIFIED="1581102717569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$Mastermind_GUI.coverage" NAME="Mastermind_GUI Coverage Results" MODIFIED="1581447892792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_6.coverage" NAME="Opdracht 6 Coverage Results" MODIFIED="1581104781062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_5.coverage" NAME="Opdracht 5 Coverage Results" MODIFIED="1581103834117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_7.coverage" NAME="Opdracht 7 Coverage Results" MODIFIED="1581429408588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$test.coverage" NAME="test Coverage Results" MODIFIED="1581425757313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$Mastermind_Game.coverage" NAME="Mastermind_Game Coverage Results" MODIFIED="1581428898422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_1.coverage" NAME="Opdracht 1 Coverage Results" MODIFIED="1580821158188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$Mastermind_Randgen.coverage" NAME="Mastermind_Randgen Coverage Results" MODIFIED="1581446627186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_4.coverage" NAME="Opdracht 4 Coverage Results" MODIFIED="1581102717569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$wxglade.coverage" NAME="wxglade Coverage Results" MODIFIED="1581442018781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/wxGlade-0.9.5" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$setup.coverage" NAME="setup Coverage Results" MODIFIED="1581444875231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python Tools/wxGlade-0.9.5" />
   </component>
 </project>

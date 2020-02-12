@@ -22,7 +22,8 @@ print(RandNum(1, 1000)
 import random
 
 
-Antwoord = random.randrange(1, int(input("Random nummer tussen 0 en: ")))
+Antwoord = random.randrange(1, int(input("Random nummer tussen 0 en ")))
+Pogingen = input("Hoeveel pogingen?")
 
 for i in range(int(Pogingen)):
     print("Doe een gok!")
