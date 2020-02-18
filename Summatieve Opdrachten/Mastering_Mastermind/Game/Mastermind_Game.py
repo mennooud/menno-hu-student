@@ -1,13 +1,13 @@
 import random
 import itertools
 import collections
-from HiddenCode import HiddenCode
+from RandomCode import SecretCode
 
 
 print("\nWelcome to Menno's MasterMind!")
 print("\nPossible symbols are: + - x o * ?")
 
-Answer = HiddenCode()
+Answer = SecretCode()
 
 
 Counted = collections.Counter(Answer)
