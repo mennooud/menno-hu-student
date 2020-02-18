@@ -41,7 +41,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Worst_Case - kopie">
+  <component name="RunManager" selected="Python.Database">
+    <configuration name="Database" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="menno-hu-student" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game/Database.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Heuristiek_Menno (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="menno-hu-student" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,28 +78,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game/Heuristiek_Menno.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Heuristiek_Menno" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="menno-hu-student" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Heuristieken" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Heuristieken/Heuristiek_Menno.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,6 +108,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="menno-hu-student" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Test/Test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Worst_Case - kopie" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="menno-hu-student" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,35 +152,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Worst_Case" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="menno-hu-student" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game/Worst_Case.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Worst_Case - kopie" />
-        <item itemvalue="Python.Worst_Case" />
+        <item itemvalue="Python.Database" />
+        <item itemvalue="Python.Test1" />
         <item itemvalue="Python.Heuristiek_Menno (1)" />
         <item itemvalue="Python.Mastermind_Game (1)" />
-        <item itemvalue="Python.Heuristiek_Menno" />
+        <item itemvalue="Python.Worst_Case - kopie" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +188,7 @@
       <workItem from="1581979657944" duration="602000" />
       <workItem from="1581981367697" duration="7053000" />
       <workItem from="1581988512297" duration="380000" />
-      <workItem from="1582011563774" duration="14661000" />
+      <workItem from="1582011563774" duration="18358000" />
     </task>
     <servers />
   </component>
@@ -211,7 +211,8 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_3.coverage" NAME="Opdracht 3 Coverage Results" MODIFIED="1581100043420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Heuristiek_Worst_Case.coverage" NAME="Heuristiek_Worst_Case Coverage Results" MODIFIED="1581970925360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind" />
-    <SUITE FILE_PATH="coverage/menno_hu_student$Heuristiek_Menno__1_.coverage" NAME="Heuristiek_Menno (1) Coverage Results" MODIFIED="1582017815730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$Database.coverage" NAME="Database Coverage Results" MODIFIED="1582032269241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$Heuristiek_Menno__1_.coverage" NAME="Heuristiek_Menno (1) Coverage Results" MODIFIED="1582028331558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Mastermind_GUI.coverage" NAME="Mastermind_GUI Coverage Results" MODIFIED="1581545499139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_6.coverage" NAME="Opdracht 6 Coverage Results" MODIFIED="1581104781062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_5.coverage" NAME="Opdracht 5 Coverage Results" MODIFIED="1581103834117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
@@ -223,17 +224,18 @@
     <SUITE FILE_PATH="coverage/menno_hu_student$wxglade.coverage" NAME="wxglade Coverage Results" MODIFIED="1581442018781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/wxGlade-0.9.5" />
     <SUITE FILE_PATH="coverage/menno_hu_student$HiddenCode.coverage" NAME="HiddenCode Coverage Results" MODIFIED="1582012746608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game" />
     <SUITE FILE_PATH="coverage/menno_hu_student$template.coverage" NAME="template Coverage Results" MODIFIED="1581443148915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python Tools/wxGlade-0.9.5" />
-    <SUITE FILE_PATH="coverage/menno_hu_student$Mastermind_Game__1_.coverage" NAME="Mastermind_Game (1) Coverage Results" MODIFIED="1582014151548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$Mastermind_Game__1_.coverage" NAME="Mastermind_Game (1) Coverage Results" MODIFIED="1582027749549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_2.coverage" NAME="Opdracht 2 Coverage Results" MODIFIED="1580824000520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Mastermind_Game_v2_0.coverage" NAME="Mastermind_Game_v2.0 Coverage Results" MODIFIED="1581987152058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind" />
     <SUITE FILE_PATH="coverage/menno_hu_student$MasterMindGUI.coverage" NAME="MasterMindGUI Coverage Results" MODIFIED="1581869064287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind" />
     <SUITE FILE_PATH="coverage/menno_hu_student$HeuristiekRandom.coverage" NAME="HeuristiekRandom Coverage Results" MODIFIED="1581947295456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind" />
-    <SUITE FILE_PATH="coverage/menno_hu_student$Worst_Case___kopie.coverage" NAME="Worst_Case - kopie Coverage Results" MODIFIED="1582027372880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$Worst_Case___kopie.coverage" NAME="Worst_Case - kopie Coverage Results" MODIFIED="1582027704749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game" />
     <SUITE FILE_PATH="coverage/menno_hu_student$MasterMind_Database.coverage" NAME="MasterMind_Database Coverage Results" MODIFIED="1581982101817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_7.coverage" NAME="Opdracht 7 Coverage Results" MODIFIED="1581429408588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
     <SUITE FILE_PATH="coverage/menno_hu_student$test.coverage" NAME="test Coverage Results" MODIFIED="1581907579786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Mastermind_Game.coverage" NAME="Mastermind_Game Coverage Results" MODIFIED="1582011610195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Worst_Case.coverage" NAME="Worst_Case Coverage Results" MODIFIED="1582026713253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game" />
+    <SUITE FILE_PATH="coverage/menno_hu_student$Test1.coverage" NAME="Test1 Coverage Results" MODIFIED="1582029275100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Test" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_1.coverage" NAME="Opdracht 1 Coverage Results" MODIFIED="1580821158188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_4.coverage" NAME="Opdracht 4 Coverage Results" MODIFIED="1581102717569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
     <SUITE FILE_PATH="coverage/menno_hu_student$setup.coverage" NAME="setup Coverage Results" MODIFIED="1581444875231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python Tools/wxGlade-0.9.5" />
