@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb698bc-ca51-4ae2-abeb-bd2470f36802" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/menno-hu-student.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/menno-hu-student.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game/Database.py" beforeDir="false" afterPath="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game/Database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game/Mastermind_Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Summatieve Opdrachten/Mastering_Mastermind/Game/Mastermind_Game.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Database">
+  <component name="RunManager" selected="Python.Mastermind_Game (1)">
     <configuration name="Database" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="menno-hu-student" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,8 +156,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Database" />
         <item itemvalue="Python.Mastermind_Game (1)" />
+        <item itemvalue="Python.Database" />
         <item itemvalue="Python.Worst_Case - kopie" />
         <item itemvalue="Python.Worst_Case" />
         <item itemvalue="Python.Heuristiek_Menno (1)" />
@@ -194,6 +192,14 @@
       <workItem from="1581988512297" duration="380000" />
       <workItem from="1582011563774" duration="14661000" />
     </task>
+    <task id="LOCAL-00001" summary="Tip voor database">
+      <created>1582030265754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582030265754</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +217,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tip voor database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tip voor database" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/menno_hu_student$Opdracht_3.coverage" NAME="Opdracht 3 Coverage Results" MODIFIED="1581100043420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Formatieve opdracht 1" />
