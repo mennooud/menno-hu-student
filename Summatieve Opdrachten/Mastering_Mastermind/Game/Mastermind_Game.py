@@ -10,6 +10,7 @@ print("\nPossible symbols are: + - x o * ?")
 Answer = SecretCode()
 
 
+
 Counted = collections.Counter(Answer)
 Guesses = 1
 
