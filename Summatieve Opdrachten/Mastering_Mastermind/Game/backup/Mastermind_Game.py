@@ -1,11 +1,13 @@
+import random
+import itertools
 import collections
 from RandomCode import main as RC
 from PlayerGame import main as PG
-from Database import data
+
 print("\nWelcome to Menno's MasterMind!")
 print("\nPossible symbols are: + - x o * ?")
 
-gametype = str(input("Want to play yourself or let the computer crack the code? (User/Random/AI)")).upper()
+gametype = str(input("Want to play yourself or let the computer crack the code? (User/AI)")).upper()
 
 Answer = RC.SecretCode()
 Counted = collections.Counter(Answer)
@@ -18,10 +20,9 @@ def game():
     elif gametype == "RANDOM":
         Guess = RC.RandomCode()
     elif gametype == "AI":
-        return print("Bot is not working yet.")
-
+        Guess = ["+","+","-","-"]
     Guess = Guess
-    hint = [0, 0]
+    hint = [0,0]
     Guess_Count = collections.Counter(Guess)
     Last_Guess = Guess
     White_Pin = sum(min(Counted[k], Guess_Count[k]) for k in Counted) #Thanks

@@ -1,5 +1,7 @@
 import itertools
 import random
+import collections
+import sys
 
 def Database():
     Symbols = ["+","-","x","o","*","?"]
@@ -7,3 +9,5 @@ def Database():
     return all_answers
 data = Database()
 
+print(data)
+print(random.choice(data))
